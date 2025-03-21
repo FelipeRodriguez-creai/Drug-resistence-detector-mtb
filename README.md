@@ -26,9 +26,7 @@ make basic_requirements
 **IMPORTANT: You may need to close and restart your shell (Terminal) before to install Liponium tool**
 ---
 
-## 1. Download the Liponium repository [here](https://github.com/mecomontes/MTB-Heteroresistence)
-
-<div align ="center "><img src='./images/download.png' alt='Liponium' width="700"></div>
+## 1. Download the Liponium repository 
 ---
 
 ## 2. Extract Liponium folder on your local machine.
