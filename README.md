@@ -1,4 +1,4 @@
-# **:** An MTB-Heteroresistence app
+# An MTB-Heteroresistence app
 
 A Bioinformatic tool to find mutations that cause Heteroresistance of MTB that is considered a preliminary stage to full resistance. Studies addressing the mechanisms underlying heteroresistance in TB are lacking so far. The aim of this tool is helping in studies of systematical causes of heteroresistance to Delamanid, Ethambutol, Etionamida, Streptomycin, Fluoroquinolones,  Isoniazide, Pyrazinamide, and other antibiotics.
 ---
